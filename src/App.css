@@ -31,3 +31,14 @@
     transform: rotate(360deg);
   }
 }
+
+.contactcard {
+
+}
+
+.container{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+     font-family: "Courier New";
+}
